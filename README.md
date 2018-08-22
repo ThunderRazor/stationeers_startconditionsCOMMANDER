@@ -73,10 +73,9 @@ COMMANDERpro
 
 INSTRUCTIONS
 1. Find the directory:
-C:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
+- C:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
 or
-
-D:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
+- D:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
 depending on where you have installed stationeers.
 
 2. Within Data\, create a new folder named ORIGINAL (or something obvious), and move startconditions.xml to that folder.
