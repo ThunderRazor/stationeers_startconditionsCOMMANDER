@@ -72,14 +72,16 @@ COMMANDERpro
 INSTRUCTIONS
 1. Find the directory:
 C:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
-or
+  or
 D:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
 depending on where you have installed stationeers.
 
-2. Within Data\, create a new folder named ORIGINAL (or something obvious), and move startconditions.xml to that folder.
+2. Within Data\, create a new folder named ORIGINAL (or something obvious),
+    and move startconditions.xml to that folder.
 
-3. Within Data\, create a new folder named MODS (or something obvious), and download+extract startconditionsCOMMANDER.zip into that folder.
+3. Within Data\, create a new folder named MODS (or something obvious),
+    and download+extract startconditionsCOMMANDER.zip into that folder.
 
-4. Choose the mod variation you want (COMMANDERbasic, COMMANDERplus, COMMANDERpro) and copy the xml file into Data\.
+4. Choose the mod variation you want (COMMANDERbasic, COMMANDERplus, COMMANDERpro) and copy the xml file into Data\
 
 5. Launch the game.
