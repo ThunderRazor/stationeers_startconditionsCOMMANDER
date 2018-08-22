@@ -1,4 +1,4 @@
-# stationeers_startconditionsCOMMANDER
+# startconditionsCOMMANDER
 stationeers mod : startconditions Commander's Mod, by SunRazor1 @steam, August 21, 2018
 
 
