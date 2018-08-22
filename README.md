@@ -5,7 +5,7 @@ stationeers mod : startconditions Commander's Mod, by SunRazor1 @steam, August 2
 ABOUT
 - The Commander Kit Mod is inspired by being a victim of griefers too many times.
 I always wanted to open up my world to the public without worrying about griefers spoiling the party.
-The Commander's Mod lets you start with some basic (or advanced security) power at the start of the game,
+The Commander's Mod lets you start with some basic (or advanced) security power at the start of the game,
 and deprives all spawning players from having any tools to destroy your world.
 
 
