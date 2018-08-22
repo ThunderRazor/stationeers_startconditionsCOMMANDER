@@ -6,9 +6,13 @@ SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Dat
 
 The name of the file is not important, but it is very important that you only have ONE (1) starting conditions xml file in the Data\ folder!!!
 
+Suggestion:
+In the Data/ folder, create a new folder named ORIGINAL to put your original xml file for safe-keeping.
+In the Data/ folder, create a 2nd new folder named MODS to store all your mod xml files to avoid conflicts.
+
 Therefore, BEFORE YOU ADD THE MOD TO YOUR Data\ FOLDER, you must:
-1. Move the original startconditions.xml file into a safe folder (a folder within the Data\ is fine).
-2. Extract and keep all starconditions mod files in a different safe folder (a folder within the Data\ is fine too).
+1. Move the original startconditions.xml file into a safe folder (in your ORIGINAL\ folder).
+2. Extract and keep all starconditions mod files in a different safe folder (in your MODS\ folder).
 3. Copy only the mod xml file you want into Data\
 
 
