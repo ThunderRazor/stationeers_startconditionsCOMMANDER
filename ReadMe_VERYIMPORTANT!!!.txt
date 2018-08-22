@@ -1,8 +1,8 @@
 Starting Conditions - Commander Mod Set - Mod by SunRazor1 @Steam, August 21, 2018
 The following directory is where the mod file (XML file) needs to go to be recognized by the game: 
-C:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data
+C:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
 OR
-D:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data
+D:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
 
 !!!!!!!!!!!!!VERY IMPORTANT!!!!!!!!!!!!!!!
 
