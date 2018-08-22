@@ -63,6 +63,7 @@ COMMANDERpro
 - SMG w/ Ammo
 - Energy Pistol w/ Battery
 - Energy Rifle w/ Battery
+- Hand Grenade
 - Crate Mount x6
 - Tool Belt w/ Tools
 - Mining Belt w/ Tools
