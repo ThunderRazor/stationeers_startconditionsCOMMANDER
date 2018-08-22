@@ -87,3 +87,5 @@ depending on where you have installed stationeers.
 4. Choose the mod variation you want (COMMANDERbasic, COMMANDERplus, COMMANDERpro) and copy the xml file into Data\
 
 5. Launch the game.
+
+Be the Commander you always wanted to be!
