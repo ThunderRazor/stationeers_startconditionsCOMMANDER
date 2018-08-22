@@ -1,13 +1,15 @@
 Starting Conditions - Commander Mod Set - Mod by SunRazor1 @Steam, August 21, 2018
 The following directory is where the mod file (XML file) needs to go to be recognized by the game: 
-SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data\
+C:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data
+OR
+D:\Program Files\SteamLibrary\steamapps\common\Stationeers\rocketstation_Data\StreamingAssets\Data
 
 !!!!!!!!!!!!!VERY IMPORTANT!!!!!!!!!!!!!!!
 
 The name of the file is not important, but it is very important that you only have ONE (1) starting conditions xml file in the Data\ folder!!!
 
 Suggestion:
-In the Data/ folder, create a new folder named ORIGINAL to put your original xml file for safe-keeping.
+In the Data/ folder, create a new folder named ORIGINAL to store your original startconditions.xml file for safe-keeping.
 In the Data/ folder, create a 2nd new folder named MODS to store all your mod xml files to avoid conflicts.
 
 Therefore, BEFORE YOU ADD THE MOD TO YOUR Data\ FOLDER, you must:
